@@ -6,4 +6,4 @@
 
 2. I learned about the border-radius property from <https://www.w3schools.com/css/css3_borders.asp>.
 
-3. Phil Chaplin helped me figure out how to space the links in my nav bar properly.
+3. Phil Chaplin helped me figure out how to space the links in my nav bar properly using 'calc'.
